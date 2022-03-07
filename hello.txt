@@ -1,1 +1,1 @@
-Happy New Year. Chúc Mừng Năm Mới Xuân 2022
+<F1><M2><S1><B255><CT=255,0,0>Xin <CT=255,0,0>Chào <CT=0,255,0>Các <CT=0,0,255>Bạn <CT=200,200,0>Chúc <CT=0,200,200>Vui <CT=200,200,200>
