@@ -1,2 +1,1 @@
-Chào Mừng Bạn Đến Sở Thông Tin Và Truyền Thông Tỉnh Đồng Nai
-Chúc Bạn Ngày Mới Vui Vẻ
+<F1><M2><S1><B255><CT=255,0,0>VIỆT NAM <CT=0,255,0>QUÊ HƯƠNG<CT=0,0,255>ĐẤT NƯỚC <CT=200,200,0>CON NGƯỜI, <CT=0,200,200>CHÚC <CT=200,0,200>CÁC BẠN <CT=200,200,200>NGÀY MỚI<CT=200,200,200><CT=20,100,200>Tốt <CT=200,50,50>Đẹp
