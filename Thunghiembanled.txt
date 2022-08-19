@@ -1,1 +1,1 @@
-<F1><M2><S3><B50><CT=255,0,0><span style="color: #b96ad9;">Thử nghiệm bản led</span>
+<F1><M2><S3><B50><CT=255,0,0><span style="color: #b96ad9;">Thử nghiệm bản led</span></CT>
